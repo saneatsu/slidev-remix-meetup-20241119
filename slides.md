@@ -17,6 +17,7 @@ transition: slide-left
 mdc: true
 # take snapshot for each slide in the overview
 overviewSnapshots: true
+colorSchema: "dark"
 fonts:
   # basically the text
   sans: 'Robot'
